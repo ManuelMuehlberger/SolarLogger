@@ -1,0 +1,16 @@
+[WLAN]
+SSID = "ss"
+password = "pw"
+
+[ESP8266]
+baudrate = 9600
+
+[LOG]
+logging = 6
+#logging upper limit
+#  fatal = 1,
+#  error = 2,
+#  warning = 3,
+#  info = 4,
+#  debug = 5,
+#  verbose = 6

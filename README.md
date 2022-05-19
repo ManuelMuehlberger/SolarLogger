@@ -1,2 +1,5 @@
-# SolarPi
-Using a pi to log and view solar data
+# SolarLogger
+Using a multitude of ESP8266s to read and log solar data.
+
+
+

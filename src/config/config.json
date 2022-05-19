@@ -1,0 +1,8 @@
+[
+    {
+        "ssid": "testssid",
+        "password": "testpassword",
+        "name": "testdevice",
+        "logging": true
+    }
+]
